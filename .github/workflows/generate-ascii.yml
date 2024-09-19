@@ -39,7 +39,7 @@ jobs:
             - name: Read File
               run: cat dragon.txt
             - name: Deploy
-              run : each deploy........... 
+              run : echo "deployment........... COMPLETED" 
 
     # ascii_job:
     #     runs-on: ubuntu-latest
